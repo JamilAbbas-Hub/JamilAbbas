@@ -3,6 +3,14 @@ Portfolio Checklist:
  - Project that utilizes multiple datasets with a conversion script
  - Show multiple regression techniques in R
  - Project that utilizes spatial data/data visualization
- - Machine learning project (neural net example) (eg. written digit classifier)
+ - Machine learning project (eg. neural net, k-means clustering) (eg. written digit classifier)
  - Past Projects (written)
-    
+
+
+
+1. US Crisis Monitor
+   - Extend visualization until January 2021
+   - Create visual representation statistics that help outline severity of the protests
+   - Include data on COVID cases/deaths on the same time frame (April 2020 - Jan 2021), can also visualize and stack with previous visualization
+   - Perform a regression to see if protest volume is significant in predicting COVID cases
+   - Include outside COVID data (create visualization and possible regressions) (https://covidtracking.com/)
